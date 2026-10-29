@@ -145,16 +145,6 @@ npm run dev
 
 Frontend will run on → `http://localhost:5173`
 
-## API Documentation
-
-The full API reference is defined in **OpenAPI 3.0** format.
-
-See the file → [`docs/openapi.yaml`](./docs/openapi.yaml)
-
-You can:
-
-* Open it in [Swagger Editor](https://editor.swagger.io/)
-* Import into **Postman** or **Insomnia**
 
 ## Core API Endpoints
 
